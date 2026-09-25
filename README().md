@@ -228,16 +228,13 @@ steam-games-analysis/
 
 ### Main Files
 
-**`Steam Games Analysis.pbix`**\
+**`Steam Games.pbix`**\
 Power BI project containing the data model, transformations, measures,
 filters and dashboard.
 
-**`Steam Games Dashboard.png`**\
+**`Dashboard.png`**\
 Exported image/screenshot of the completed dashboard.
 
-**`Steam Games.csv`**\
-Dataset used for the analysis, if redistribution is permitted under the
-dataset's applicable terms.
 
 ------------------------------------------------------------------------
 
