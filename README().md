@@ -15,10 +15,6 @@ dataset from Kaggle.
 ![Steam Games Analysis
 Dashboard](1714f0cd-68b7-4923-96a2-215c8421142a.png)
 
-> **Note:** Add the dashboard screenshot to the same GitHub repository
-> folder as this README, or update the image path above if you use a
-> different filename.
-
 ------------------------------------------------------------------------
 
 ## 🔗 Dataset
